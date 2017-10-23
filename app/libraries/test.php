@@ -1,0 +1,3 @@
+<?php
+tempnam("cookies", "phrets");
+?>
